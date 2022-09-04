@@ -1,4 +1,4 @@
-module LearningInCI
+module learning-ci
 
 go 1.18
 
