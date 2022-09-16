@@ -3,7 +3,7 @@ name: Realise to Docker Hub
 on:
   push:
     tags:
-      -"*.*.*"
+      - "*.*.*"
 
 jobs:
   release:
